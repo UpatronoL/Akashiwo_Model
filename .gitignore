@@ -1,2 +1,4 @@
 
 *.csv
+*.keras
+model_versionsc
